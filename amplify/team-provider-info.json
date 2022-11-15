@@ -1,0 +1,33 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverless-staging-13012-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-staging-13012-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-staging-13012-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-serverless-staging-13012-deployment",
+      "UnauthRoleName": "amplify-serverless-staging-13012-unauthRole",
+      "StackName": "amplify-serverless-staging-13012",
+      "StackId": "arn:aws:cloudformation:us-east-1:516340368300:stack/amplify-serverless-staging-13012/e2b859c0-63bb-11ed-ad62-0e9863ae468d",
+      "AmplifyAppId": "d2vimh0m422c7r"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverless-test-224940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-test-224940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-test-224940-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-serverless-test-224940-deployment",
+      "UnauthRoleName": "amplify-serverless-test-224940-unauthRole",
+      "StackName": "amplify-serverless-test-224940",
+      "StackId": "arn:aws:cloudformation:us-east-1:516340368300:stack/amplify-serverless-test-224940/9c6600a0-63be-11ed-9e32-0efcee6db611",
+      "AmplifyAppId": "d2vimh0m422c7r"
+    },
+    "categories": {
+      "auth": {
+        "serverlessa4128266": {}
+      }
+    }
+  }
+}

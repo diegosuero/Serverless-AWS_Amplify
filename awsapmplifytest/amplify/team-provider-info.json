@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverless-staging-13012-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-staging-13012-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516340368300:role/amplify-serverless-staging-13012-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-serverless-staging-13012-deployment",
+      "UnauthRoleName": "amplify-serverless-staging-13012-unauthRole",
+      "StackName": "amplify-serverless-staging-13012",
+      "StackId": "arn:aws:cloudformation:us-east-1:516340368300:stack/amplify-serverless-staging-13012/e2b859c0-63bb-11ed-ad62-0e9863ae468d",
+      "AmplifyAppId": "d2vimh0m422c7r"
+    }
+  }
+}
